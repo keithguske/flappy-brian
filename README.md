@@ -1,5 +1,5 @@
 # flappy-brian
-A game dedicated to the glory of [Brian](http://briangatto.party)
+A game dedicated to the glory of Brian
 
 ![Flappy Brian](http://i.imgur.com/mtTMJan.png)
 
