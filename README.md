@@ -13,3 +13,4 @@ Flappy Brain was based off of some old code [here](https://github.com/whatever19
 * [Lua](http://www.lua.org)
 * [LÖVE](https://love2d.org/)
 * [GIMP](http://www.gimp.org/)
+* [love-release](https://github.com/MisterDA/love-release)
